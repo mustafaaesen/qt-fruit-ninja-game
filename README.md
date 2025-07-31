@@ -27,7 +27,7 @@ Bu proje, **C++ ve Qt Framework** kullanılarak geliştirilmiş, Fruit Ninja ben
 4. Projeyi çalıştırın!
 
 ## 📁 Dosya Yapısı
-
+```
 Fruit_Ninja_Game/
 │
 ├── images/ → Oyun içi görseller
@@ -38,7 +38,7 @@ Fruit_Ninja_Game/
 ├── main.cpp → Uygulama girişi
 ├── resource.qrc → Qt kaynak dosyası
 ├── *.pro → Qt proje yapılandırması
-
+```
 
 ## 📝 Notlar
 
